@@ -1,6 +1,85 @@
 @import url('https:fonts.googleapis.com/css?family=Barlow+Condensed|Spectral+SC');
 
+/*GLOBALS*/
 *,
 html {
   font-family:'Barlow Condensed',Helvetica,sans-serif;
+}
+
+#mn-group {
+	width:auto;
+	height:auto;
+}
+
+
+/*SPECIFICS*/
+.header-sct {
+	margin-top:1em;
+}
+
+.logo-img {
+	margin:0 auto;
+	display:block;
+}
+
+.pg-header {
+	text-align:center;
+	font-size:2.6em;
+}
+
+.body-sct {
+	margin:0 auto;
+	width:90%;
+	text-align:center;
+}
+.body-sct ul {
+	padding:0;
+	list-style:none;
+}
+
+.sct2-hdr small {
+	font-size:.7em;
+}
+
+.sct2-endtxt {
+	margin-top:1em;
+	padding-top:1em;
+	margin-bottom:2em;
+	border-top:1px solid rgb(200,200,200);
+	font-size:1.2em;
+}
+
+.container {
+	padding:0;
+	margin:0 auto;
+	width:auto;
+}
+
+.listsct-hdr {
+	font-size:1.4em;
+	font-weight:bold;
+}
+
+.list {
+	font-size:1.3em;
+}
+
+/*MULTI'S*/
+.sct1-hdr,
+.sct2-hdr,
+.sct3-hdr,
+.sct4-hdr,
+.sct5-hdr {
+	border-bottom:1px solid black;
+	padding-bottom:.5em;
+	border-top:1px solid black;
+	padding-top:.5em;
+	font-size:2em;
+}
+
+.sct1-desc,
+.sct3-desc,
+.sct5-desc {
+	font-size:1.4em;
+	margin-bottom:2em;
 }
