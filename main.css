@@ -2,7 +2,8 @@
 
 /*GLOBALS*/
 *,
-html {
+html,
+body {
   font-family:'Barlow Condensed',Helvetica,sans-serif;
 }
 
