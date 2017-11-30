@@ -4,7 +4,7 @@
 *,
 html,
 body {
-  font-family:'Barlow Condensed',Helvetica,sans-serif;
+  font-family:'Barlow Condensed',Helvetica,sans-serif!important;
 }
 
 #mn-group {
