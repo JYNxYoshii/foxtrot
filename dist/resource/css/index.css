@@ -52,7 +52,7 @@ a:hover { padding: .8em; background: rgba(45, 45, 45, 0.8); color: gainsboro !im
 #tp-info { padding-top: 25%; }
 
 /*COMMONS*/
-body, #m-cont, #carouselSlides, #c1-cont, #c2-cont, #c3-cont { margin-left: auto; margin-right: auto; }
+body, #m-cont, #carouselSlides, #c1-cont, #c2-cont, #c3-cont, #ds-info, #ds-embed, #tp-embed, #tp-info { margin-left: auto; margin-right: auto; }
 
 #m-cont, #p-cont { margin-top: 2em; padding-top: 1em; }
 
