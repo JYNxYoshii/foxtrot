@@ -27,7 +27,13 @@ a:hover { padding: .8em; background: rgba(45, 45, 45, 0.8); color: gainsboro !im
 
 .carousel-control-prev, .carousel-control-next { border: none; }
 
-#pd-cont { display: grid; grid-template-columns: 50% 50%; padding-top: 2em; padding-bottom: 2em; border-top: 1px solid rgba(45, 45, 45, 0.4); }
+#pdc-cont { border-top: 1px solid rgba(45, 45, 45, 0.4); }
+
+.pdc-header { padding-top: 1em; padding-bottom: 1em; border-bottom: 1px solid rgba(45, 45, 45, 0.2); }
+
+#pd-cont { display: grid; grid-template-columns: 50% 50%; padding-top: 1em; padding-bottom: 2em; }
+
+#pda-cont { padding-top: 1em; border-top: 1px solid rgba(45, 45, 45, 0.2); }
 
 #pd-noti { padding-top: 2em; border-top: 1px solid rgba(45, 45, 45, 0.4); }
 

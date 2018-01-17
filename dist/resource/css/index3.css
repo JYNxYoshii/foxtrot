@@ -27,7 +27,9 @@ a:hover { padding: .8em; background: rgba(45, 45, 45, 0.8); color: gainsboro !im
 
 .carousel-control-prev, .carousel-control-next { border: none; }
 
-#pd-cont { display: grid; grid-template-columns: 100%; padding-top: 2em; padding-bottom: 2em; border-top: 1px solid rgba(45, 45, 45, 0.4); }
+#pdc-cont { border-top: 1px solid rgba(45, 45, 45, 0.4); }
+
+#pd-cont { display: grid; grid-template-columns: 100% !important; padding-top: 1em; padding-bottom: 2em; }
 
 #tp-cont { margin-top: 1em; }
 
@@ -56,6 +58,8 @@ a:hover { padding: .8em; background: rgba(45, 45, 45, 0.8); color: gainsboro !im
 #ds-info { padding-top: 0; }
 
 #tp-info { padding-top: 0 !important; }
+
+.tpp-body { padding-bottom: 2em; }
 
 #tpe-cont { margin-top: 2em; }
 
